@@ -1,7 +1,7 @@
 PluginInfo = {
     Name = "Lightware~VINX (0.0.0.0)", -- The tilde here indicates folder structure in the Shematic Elements pane
     Version = "0.0.0.0",
-    Id = "qsysc.lightware.VINX.0.0.0.0", -- show this is just a unique id. Show some commented out 'fun' unique ids
+    Id = "5d2402d7-9d4f-40ab-a8f6-0cddf404b1bb", -- show this is just a unique id. Show some commented out 'fun' unique ids
     Description = "Control for Lightware VINX",
     ShowDebug = false,
     Author = "Isaac Porter"
